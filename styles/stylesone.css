@@ -1,0 +1,27 @@
+.mainone{
+    display: flex;
+        flex-direction: row-reverse;
+        background-color: whitesmoke;
+        padding: 50px;
+        width: 1200px;
+        margin: 0 auto;
+}
+
+.aboutone{
+    padding: 50px;
+}
+
+.description{
+    font-size: 18px;
+}
+
+.sidebarone{
+    padding: 20px;
+    background-color: dimgray;
+    width: 300px;
+}
+
+.how{
+    padding-left:90px;
+}
+
