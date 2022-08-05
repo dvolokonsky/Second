@@ -1,3 +1,27 @@
-body{
-    font-family: 'Caveat', cursive;
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: whitesmoke;
+    padding: 50px;
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+.ul{
+    background-color: whitesmoke;
+    padding: 20px;
+    margin: auto;
+}
+
+.sidebar{
+    padding: 20px;
+    background-color: dimgray;
+    width: 300px;
+}
+
+.sidebarabout{
+    margin: 0 auto;
+    padding-right: 100px;
+    font-size: 25px;
 }
