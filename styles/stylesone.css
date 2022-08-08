@@ -13,14 +13,22 @@
     padding: 50px;
 }
 
+.name{
+    font-size: 38px;
+}
+
 .description{
-    font-size: 18px;
+    font-size: 32px;
+}
+.descript{
+    font-size: 25px;
 }
 
 .sidebarone{
     padding: 20px;
     background-color: dimgray;
     width: 300px;
+    font-size: 20px;
 }
 
 .how{
