@@ -5,6 +5,8 @@
     padding: 50px;
     width: 1200px;
     margin: 0 auto;
+    font-family: 'Architects Daughter', cursive;
+        font-family: 'Caveat', cursive;
 
 }
 
@@ -12,6 +14,7 @@
     background-color: whitesmoke;
     padding: 20px;
     margin: auto;
+    font-size: 45px;
 }
 
 .sidebar{
@@ -23,4 +26,8 @@
 .sidebarabout{
     padding-left: 58px;
     font-size: 25px;
+}
+
+.about{
+    font-size: 21px;
 }

@@ -1,10 +1,12 @@
 .mainone{
     display: flex;
-        flex-direction: row-reverse;
-        background-color: whitesmoke;
-        padding: 50px;
-        width: 1200px;
-        margin: 0 auto;
+    flex-direction: row-reverse;
+    background-color: whitesmoke;
+    padding: 50px;
+    width: 1200px;
+    margin: 0 auto;
+    font-family: 'Architects Daughter', cursive;
+        font-family: 'Caveat', cursive;
 }
 
 .aboutone{
@@ -25,7 +27,4 @@
     padding-left:90px;
 }
 
-.imgthree{
-    padding-right: 50px;
-}
 
