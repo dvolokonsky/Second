@@ -9,6 +9,15 @@
         font-family: 'Caveat', cursive;
 }
 
+.back {
+    padding: 20px;
+    margin: 10px;
+    width: 550px;
+    height: 45px;
+    font-size: 25px;
+    background-color: dimgray;
+}
+
 .aboutone{
     padding: 50px;
 }
