@@ -12,11 +12,18 @@
     padding: 20px;
     background-color: dimgray;
     width: 300px;
-    font-size: 20px;
+    font-size: 25px;
+}
+
+.ultwo{
+    font-size: 32px;
+    padding-left: 80px;
 }
 
 .maincontent{
     padding: 50px;
+    width: 800px;
+    font-size: 25px; 
 }
 
 .backtwo {
