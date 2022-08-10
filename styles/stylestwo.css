@@ -1,0 +1,29 @@
+.maintwo {
+    display: flex;
+    background-color: whitesmoke;
+    padding: 50px;
+    width: 1200px;
+    margin: 0 auto;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Caveat', cursive;
+}
+
+.sidebartwo {
+    padding: 20px;
+    background-color: dimgray;
+    width: 300px;
+    font-size: 20px;
+}
+
+.maincontent{
+    padding: 50px;
+}
+
+.backtwo {
+    padding: 20px;
+    margin: 10px;
+    width: 100px;
+    height: 45px;
+    font-size: 25px;
+    background-color: dimgray;
+}
