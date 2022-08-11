@@ -32,6 +32,11 @@
     font-size: 20px;
 }
 
+.warn{
+    font-size: 25px;
+    margin-left: 45px;
+}
+
 .maincontent {
     padding: 50px;
     width: 800px;
