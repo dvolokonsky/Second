@@ -20,6 +20,14 @@
     padding-left: 80px;
 }
 
+.site{
+    font-size: 25px;
+    padding-top: 1000px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
 .twozero{
     padding: 10px;
     background-color: dimgray;
