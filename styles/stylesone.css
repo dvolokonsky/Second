@@ -9,17 +9,11 @@
         font-family: 'Caveat', cursive;
 }
 
-.backone {
-    padding: 20px;
-    margin: 10px;
-    width: 28%;
-    height: 45px;
-    font-size: 25px;
-    background-color: dimgray;
-}
-
 .aboutone{
+    width: 800px;
+    width: 100%;
     padding: 50px;
+    display: flex;
 }
 
 .name{
@@ -29,8 +23,19 @@
 .description{
     font-size: 32px;
 }
+
 .descript{
     font-size: 25px;
+}
+
+.backone {
+    padding: 20px;
+    width: 120px;
+    width: 36%;
+    height: 45px;
+    size: 100%;
+    font-size: 25px;
+    background-color: dimgray;
 }
 
 .sidebarone{
