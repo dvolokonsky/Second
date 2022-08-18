@@ -1,3 +1,7 @@
+a{
+    color: navy;
+}
+
 .maintwo{
     display: flex;
     background-color: whitesmoke;
@@ -10,7 +14,7 @@
 
 .sidebartwo{
     padding: 20px;
-    background-color: dimgray;
+    background-color: gray;
     width: 300px;    
     font-size: 25px;
 }
@@ -43,12 +47,12 @@
     height: 45px;
     size: 100%;
     font-size: 25px;
-    background-color: dimgray;
+    background-color: gray;
 }
 
 .twozero{
     padding: 10px;
-    background-color: dimgray;
+    background-color: gray;
 }
 
 .imgtwozero{
@@ -63,7 +67,7 @@
 .warng{
     margin-top: 100px;
     padding: 10px;
-    background-color: dimgray;
+    background-color: gray;
 }
 
 .warning{
@@ -81,5 +85,5 @@
     margin-left: 20px;
     margin-right: 20px;
     padding: 5px;
-    background-color: dimgray;
+    background-color: gray;
 }
