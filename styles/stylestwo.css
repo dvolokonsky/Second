@@ -2,6 +2,14 @@ a{
     color: navy;
 }
 
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
 .maintwo{
     display: flex;
     background-color: whitesmoke;
@@ -78,7 +86,7 @@ a{
 
 .warn{
     font-size: 25px;
-    margin: auto;
+    text-align: center;
 }
 
 .div{

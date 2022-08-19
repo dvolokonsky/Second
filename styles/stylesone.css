@@ -2,6 +2,14 @@ a {
     color: navy;
 }
 
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
 .mainone{
     display: flex;
     flex-direction: row-reverse;
@@ -35,7 +43,7 @@ a {
 .backone {
     padding: 20px;
     width: 120px;
-    width: 36%;
+    width: 22%;
     height: 45px;
     size: 100%;
     font-size: 25px;
