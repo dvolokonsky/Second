@@ -35,12 +35,12 @@
     height: 45px;
     size: 100%;
     font-size: 25px;
-    background-color: dimgray;
+    background-color: gray;
 }
 
 .sidebarone{
     padding: 20px;
-    background-color: dimgray;
+    background-color: gray;
     width: 300px;
     font-size: 20px;
 }
