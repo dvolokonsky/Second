@@ -1,3 +1,7 @@
+a {
+    color: navy;
+}
+
 .mainone{
     display: flex;
     flex-direction: row-reverse;
