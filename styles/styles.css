@@ -8,7 +8,7 @@ a {
     background-color: whitesmoke;
     padding: 50px;
     width: 1200px;
-    margin: 0 auto;
+    margin: auto;
     font-family: 'Architects Daughter', cursive;
         font-family: 'Caveat', cursive;
 }
@@ -33,6 +33,11 @@ a {
 
 .about{
     font-size: 21px;
+}
+
+.dor{
+    font-size: 12px;
+    text-align: right;
 }
 
 .contacts{
