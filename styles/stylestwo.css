@@ -118,3 +118,7 @@ h3{
 .downloadtwo{
     margin-left: 20px;
 }
+
+.ready{
+    display: flex;
+}
