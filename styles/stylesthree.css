@@ -28,9 +28,25 @@ h3 {
     display: flex;
 }
 
+.name{
+    font-size: 40px;
+    padding-bottom: 0px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.wh{
+    display: flex;
+    font-size: 20px;
+}
+
 .sidebarthree {
     padding: 20px;
     background-color: gray;
-    width: 300px;
+    width: 400px;
+    font-size: 20px;
+}
+
+.twenty{
     font-size: 20px;
 }
