@@ -44,6 +44,10 @@ a {
     font-size: 21px;
 }
 
+.game{
+    text-decoration: none;
+}
+
 .dor{
     font-size: 12px;
     text-align: right;
